@@ -1,6 +1,6 @@
 ### Sublime Text 3 snippet for wrapping string into a Translation String 
 
-I often use Translation Strings on multilang websites, and once I get bored of typing blade's template literals, I created this snippet.
+I often use Laravel's Translation Strings on multilang websites, and once I get bored of typing blade's template literals, I created this snippet.
 
 You can read more in the Laravel docs about Translation Strings: https://laravel.com/docs/5.5/localization#defining-translation-strings
 
